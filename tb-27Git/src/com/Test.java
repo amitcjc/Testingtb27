@@ -22,7 +22,9 @@ public class Test
 	{
 		System.out.println("This is M4");
 	}
-	
+	public void pragatimethod(){
+		System.out.println("by pragati")
+	}
 public static void main(String[] args) 
 {
 System.out.println("This is Main Method");	
