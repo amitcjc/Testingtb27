@@ -28,6 +28,14 @@ public class Test
 		System.out.println("This is M5");
 	}
 	
+	public void m6()
+	{
+		System.out.println("This is M6");
+	}
+	
+	
+	
+	
 public static void main(String[] args) 
 {
 System.out.println("This is Main Method");	
