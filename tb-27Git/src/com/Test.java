@@ -35,8 +35,10 @@ public class Test
 	
 	public void m7()
 	{
-		System.out.println("This is M7---diff branch");
+		System.out.println("This is M7");
 	}
+
+
 	
 	
 public static void main(String[] args) 
