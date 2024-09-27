@@ -33,6 +33,10 @@ public class Test
 		System.out.println("This is M6");
 	}
 	
+	public void m7()
+	{
+		System.out.println("This is M7");
+	}
 	
 	
 	
